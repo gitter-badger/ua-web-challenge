@@ -3,3 +3,5 @@
 Установить зависимости npm install
 Запустить приложение node index.js <list of rooms>
 
+
+Join the chat at https://gitter.im/375683067/ua-web-challenge
